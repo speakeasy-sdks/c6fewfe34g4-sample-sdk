@@ -59,3 +59,33 @@ Based on:
 - [go v0.6.0] .
 ### Releases
 - [Go v0.6.0] https://github.com/speakeasy-sdks/template-speakeasy-bar/releases/tag/v0.6.0 - .
+
+## 2024-03-14 00:42:58
+### Changes
+Based on:
+- OpenAPI Doc 1.0.0 
+- Speakeasy CLI 1.209.2 (2.281.2) https://github.com/speakeasy-api/speakeasy
+### Generated
+- [go v0.7.0] .
+### Releases
+- [Go v0.7.0] https://github.com/speakeasy-sdks/c6fewfe34g4-sample-sdk/releases/tag/v0.7.0 - .
+
+## 2024-03-20 00:39:21
+### Changes
+Based on:
+- OpenAPI Doc 1.0.0 
+- Speakeasy CLI 1.213.0 (2.283.1) https://github.com/speakeasy-api/speakeasy
+### Generated
+- [go v0.7.1] .
+### Releases
+- [Go v0.7.1] https://github.com/speakeasy-sdks/c6fewfe34g4-sample-sdk/releases/tag/v0.7.1 - .
+
+## 2024-03-27 00:49:48
+### Changes
+Based on:
+- OpenAPI Doc 1.0.0 
+- Speakeasy CLI 1.227.0 (2.291.0) https://github.com/speakeasy-api/speakeasy
+### Generated
+- [go v0.7.2] .
+### Releases
+- [Go v0.7.2] https://github.com/speakeasy-sdks/c6fewfe34g4-sample-sdk/releases/tag/v0.7.2 - .
