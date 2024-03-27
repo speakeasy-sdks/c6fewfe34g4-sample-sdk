@@ -3,10 +3,10 @@ id: fe17e095-623c-40a3-b937-f5065cee44d4
 management:
   docChecksum: abbc3a8faac54f76013e5d509a8d11ec
   docVersion: 1.0.0
-  speakeasyVersion: 1.213.0
-  generationVersion: 2.283.1
-  releaseVersion: 0.7.1
-  configChecksum: 566b7799c7962898558db86cf0e1dc2e
+  speakeasyVersion: 1.227.0
+  generationVersion: 2.291.0
+  releaseVersion: 0.7.2
+  configChecksum: d5ba5e09964f060fa12818d993c66122
   repoURL: https://github.com/speakeasy-sdks/c6fewfe34g4-sample-sdk.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/c6fewfe34g4-sample-sdk
@@ -14,7 +14,7 @@ management:
 features:
   go:
     callbacks: 1.0.0
-    core: 3.4.4
+    core: 3.4.5
     devContainers: 2.90.0
     errors: 2.81.8
     examples: 2.81.3
